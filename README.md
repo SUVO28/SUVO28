@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![logo](https://github.com/SUVO28/SUVO28/blob/main/banner.gif)
 <!--
 **SUVO28/SUVO28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
