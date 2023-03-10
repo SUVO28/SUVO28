@@ -6,9 +6,9 @@ An enthusiastic coder from India
 🔭 I’m currently working on building websites.<br>🌱 I’m currently learning JavaScript & React.<br>💬 Ask me about HTML, CSS, Java, Python,MySQL<br>⚡ Fun fact: Love eating and sleeping.
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SUVO28&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=SUVO28&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUVO28&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SUVO28&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUVO28&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="400px" align="right">
+<img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="400px" align="right">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SUVO28&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
