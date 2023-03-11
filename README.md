@@ -18,7 +18,7 @@ An enthusiastic coder from India
 ![](https://github-profile-trophy.vercel.app/?username=SUVO28&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aritradas7998) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aritra Das) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aritradas7998) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritradas-4a1b3b226) 
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
